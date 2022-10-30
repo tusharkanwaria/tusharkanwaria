@@ -3,7 +3,7 @@
 
 Hey , I am Tushar Kanwaria, passionate about algorithms. Still trying to find favourite coding language and my field and life.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Undergrad+at+IIT+Kharagpur;Competitive+Programmer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading+and+Devlopment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Undergrad+at+IIT+Kharagpur;Animator+and+digital+Influencer;Competitive+Programmer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: tushar.kanwaria@gmail.com">
